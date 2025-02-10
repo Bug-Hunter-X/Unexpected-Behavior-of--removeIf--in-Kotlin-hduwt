@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using Kotlin's `removeIf` function. The provided code shows how modifying a list while iterating over it using `removeIf` can lead to unexpected results. The solution provides an alternative approach that avoids this issue.  The bug is subtle, common, and can lead to hard-to-debug issues.
